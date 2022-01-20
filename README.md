@@ -1,2 +1,2 @@
 # C---Algorithms
-Search and Sort algorithms 
+Search Algorithms (Linear, Binary) 
